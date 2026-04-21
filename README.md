@@ -55,6 +55,7 @@ Created and maintained by **鲲鹏AI探索局 / Kunpeng AI Lab**.
 - `_meta.json`：轻量发布元数据
 - `docs/RELEASE_PACK.md`：对外发布技术说明
 - `docs/GITHUB_LAUNCH.md`：GitHub 首发文案、topics、release note 建议
+- `docs/EXTERNAL_DISTRIBUTION.md`：ClawHub / 社区投稿文案包
 - `CHANGELOG.md`：版本更新记录
 
 ### 安装方式
@@ -160,6 +161,7 @@ This skill shifts the default interaction style to:
 - `_meta.json` - lightweight release metadata
 - `docs/RELEASE_PACK.md` - technical release sheet
 - `docs/GITHUB_LAUNCH.md` - GitHub launch copy, topics, and release-note suggestions
+- `docs/EXTERNAL_DISTRIBUTION.md` - ClawHub / community submission copy pack
 - `CHANGELOG.md` - version history
 
 ### Install
