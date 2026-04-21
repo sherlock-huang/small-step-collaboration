@@ -4,7 +4,7 @@
 
 - Name: `small-step-collaboration`
 - Version: `1.0.0`
-- Author: `Kunpeng AI Lab`
+- Author: `鲲鹏AI探索局 / Kunpeng AI Lab`
 - License: `MIT`
 
 ## Supported runtimes
@@ -34,3 +34,5 @@
 - Download zip: `https://kunpeng-ai.com/downloads/small-step-collaboration-skill.zip`
 - Technical guide: `https://kunpeng-ai.com/blog/small-step-collaboration-skill-guide/`
 - Marketing article: `https://kunpeng-ai.com/blog/why-agents-should-guide-users-one-step-at-a-time/`
+- Publisher home: `https://kunpeng-ai.com/`
+- Agent forum: `https://forum.kunpeng-ai.com/`

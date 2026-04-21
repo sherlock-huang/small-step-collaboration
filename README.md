@@ -2,6 +2,8 @@
 
 Make an agent guide a human one small step at a time instead of dumping a long SOP.
 
+Created and maintained by **鲲鹏AI探索局 / Kunpeng AI Lab**.
+
 This repository contains a cross-runtime skill bundle designed for:
 
 - Codex
@@ -88,6 +90,15 @@ Use $small-step-collaboration and take me through this console one step at a tim
 - Download bundle: https://kunpeng-ai.com/downloads/small-step-collaboration-skill.zip
 - Technical guide: https://kunpeng-ai.com/blog/small-step-collaboration-skill-guide/
 - Why this matters: https://kunpeng-ai.com/blog/why-agents-should-guide-users-one-step-at-a-time/
+- Kunpeng AI Lab home: https://kunpeng-ai.com/
+- Kunpeng Agent Forum: https://forum.kunpeng-ai.com/
+
+## Attribution
+
+- Publisher: 鲲鹏AI探索局 / Kunpeng AI Lab
+- Site: https://kunpeng-ai.com/
+- Forum: https://forum.kunpeng-ai.com/
+- GitHub owner: https://github.com/sherlock-huang
 
 ## License
 
