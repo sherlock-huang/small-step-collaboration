@@ -1,0 +1,7 @@
+interface:
+  display_name: "Small-Step Collaboration"
+  short_description: "Guide users through multi-step work one small step at a time."
+  default_prompt: "Use $small-step-collaboration to guide this user through a multi-step workflow without overwhelming them."
+
+policy:
+  allow_implicit_invocation: true
