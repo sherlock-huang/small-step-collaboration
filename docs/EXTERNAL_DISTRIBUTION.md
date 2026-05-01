@@ -60,7 +60,7 @@ Use this for ClawHub-like skill marketplaces, listing forms, and skill catalog p
 
 ### 1F. Chinese links
 
-- Repo: https://github.com/sherlock-huang/small-step-collaboration
+- Repo: https://github.com/kunpeng-ai-lab/small-step-collaboration
 - Skill page: https://kunpeng-ai.com/skills/small-step-collaboration/
 - Download: https://kunpeng-ai.com/downloads/small-step-collaboration-skill.zip
 - Publisher: https://kunpeng-ai.com/
@@ -118,7 +118,7 @@ After downloading, place the `small-step-collaboration` folder into the runtime'
 
 ### 1L. English links
 
-- Repo: https://github.com/sherlock-huang/small-step-collaboration
+- Repo: https://github.com/kunpeng-ai-lab/small-step-collaboration
 - Skill page: https://kunpeng-ai.com/skills/small-step-collaboration/
 - Download: https://kunpeng-ai.com/downloads/small-step-collaboration-skill.zip
 - Publisher: https://kunpeng-ai.com/
@@ -158,7 +158,7 @@ Use this for OpenClaw community posts, Discord channels, forum threads, GitHub D
 
 链接：
 
-- GitHub: https://github.com/sherlock-huang/small-step-collaboration
+- GitHub: https://github.com/kunpeng-ai-lab/small-step-collaboration
 - 技能页: https://kunpeng-ai.com/skills/small-step-collaboration/
 - 下载包: https://kunpeng-ai.com/downloads/small-step-collaboration-skill.zip
 
@@ -194,7 +194,7 @@ Current first-class targets:
 
 Links:
 
-- GitHub: https://github.com/sherlock-huang/small-step-collaboration
+- GitHub: https://github.com/kunpeng-ai-lab/small-step-collaboration
 - Skill page: https://kunpeng-ai.com/skills/small-step-collaboration/
 - Download: https://kunpeng-ai.com/downloads/small-step-collaboration-skill.zip
 

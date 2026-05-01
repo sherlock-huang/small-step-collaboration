@@ -110,7 +110,7 @@ Use $small-step-collaboration and take me through this console one step at a tim
 - 发布者：鲲鹏AI探索局 / Kunpeng AI Lab
 - 网站：https://kunpeng-ai.com/
 - 论坛：https://forum.kunpeng-ai.com/
-- GitHub Owner：https://github.com/sherlock-huang
+- GitHub Owner：https://github.com/kunpeng-ai-lab
 
 ---
 
@@ -216,7 +216,7 @@ Use $small-step-collaboration and take me through this console one step at a tim
 - Publisher: 鲲鹏AI探索局 / Kunpeng AI Lab
 - Site: https://kunpeng-ai.com/
 - Forum: https://forum.kunpeng-ai.com/
-- GitHub owner: https://github.com/sherlock-huang
+- GitHub owner: https://github.com/kunpeng-ai-lab
 
 ## License
 

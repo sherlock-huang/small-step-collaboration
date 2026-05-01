@@ -106,9 +106,9 @@ Initial public release of `small-step-collaboration`, a cross-runtime skill bund
 ### Chinese
 
 我们把“小步协作”做成了一份可开源复用的 skill：让 Agent 在和用户协作时，一次只推进一个最小动作，更适合 Search Console、后台操作、部署排障这类真实流程。当前优先兼容 Codex、OpenClaw、Hermes。  
-Repo: https://github.com/sherlock-huang/small-step-collaboration
+Repo: https://github.com/kunpeng-ai-lab/small-step-collaboration
 
 ### English
 
 We open-sourced `small-step-collaboration`, a skill that makes agents guide users one smallest useful step at a time instead of dumping a long SOP. Best for setup, debugging, webmaster tools, and dashboard workflows. Currently aimed at Codex, OpenClaw, and Hermes.  
-Repo: https://github.com/sherlock-huang/small-step-collaboration
+Repo: https://github.com/kunpeng-ai-lab/small-step-collaboration
